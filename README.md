@@ -7,3 +7,9 @@ Bat terminal va chay lenh
 ```js
     npm test
 ```
+**Seri hoc javascript can ban voi module javascripting**
+Bat terminal va chay lenh
+```js
+    javascripting
+``` 
+de chay chuong trinh hoc javascript basic
