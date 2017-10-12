@@ -1,15 +1,19 @@
 # Javascript basic
 **Giai phuong trinh bac 2**  
-Giai phuong trinh bac 2 bang javascript va unitest bang mocha chai
+Giải phương trình bậc 2 và sử dụng mocha chai để viết unit test.
 
-**Cach chay unitest**  
-Bat terminal va chay lenh  
+**Cách chạy unitest**  
+Bật terminal và chạy lệnh 
 ```js
     npm test
 ```
-**Seri hoc javascript can ban voi module javascripting**
-Bat terminal va chay lenh
+**Seri học javascript căn bản với module javascripting**
+Bật terminal và chạy lệnh
 ```js
     javascripting
 ``` 
-de chay chuong trinh hoc javascript basic
+để chạy chương trình học javabasic.
+**Seri học Nodejs căn bản với module learnyounode**
+```js
+    learnyounode
+``` 
